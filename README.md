@@ -1,3 +1,9 @@
+CAT APP
+1. Create React App
+2. Install all your dependencies 
+3. Setup Redux React-Redux
+5. Setup the thunk middleware
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
