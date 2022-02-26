@@ -47,7 +47,6 @@ link {
   flex-direction: column;
   justify-content: space-around;
   color: red;
-  hover: white;
 }
 /* 
 @keyframes App-logo-spin {
